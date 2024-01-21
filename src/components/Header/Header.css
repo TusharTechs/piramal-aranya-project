@@ -1,0 +1,145 @@
+.header-wrapper {
+  background-image: url("../../assets/home.jpg");
+  background-position: center;
+  background-size: cover;
+  background-color: #1a2440;
+  width: 100%;
+}
+
+.header-container {
+  color: #fff;
+  max-width: 1200px;
+  padding: 50px;
+  margin: 0 auto;
+}
+
+.header-section {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.navigation {
+  display: flex;
+  gap: 40px;
+  font-size: 14px;
+}
+
+.navigation p {
+  cursor: pointer;
+}
+
+.enquire-now-btn button {
+  background-color: #0ea57a;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.project-section {
+  text-align: center;
+}
+
+.btn_mumbai button {
+  font-family: "Poppins", sans-serif;
+  padding: 10px 50px;
+  background: transparent;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  color: #fff;
+  margin-top: 100px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.project-aranya {
+  font-family: "Gabriela", serif;
+  margin-top: 100px;
+}
+
+.project-aranya h1 {
+  font-size: 84px;
+  margin-bottom: -20px;
+}
+
+.project-aranya h2 {
+  font-size: 72px;
+  font-weight: 500;
+}
+
+.project-aranya p {
+  color: #00e5a1;
+  font-size: 20px;
+}
+
+.discover-image-section {
+  position: relative;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.discover-image {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+.white-logo {
+  display: none;
+}
+
+@media (max-width: 1024px) {
+  .header-container {
+    max-width: 100% !important;
+  }
+
+  .navigation,
+  .enquire-now-btn,
+  .project-section,
+  .btn_mumbai,
+  .project-aranya,
+  .discover-image-section {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .white-logo {
+    display: block;
+  }
+
+  .header-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .logo,
+  .navigation,
+  .enquire-now-btn,
+  .project-section,
+  .btn_mumbai,
+  .project-aranya,
+  .discover-image-section {
+    display: none;
+  }
+
+  .header-wrapper {
+    height: 100vh;
+    background-image: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .header-wrapper img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+}

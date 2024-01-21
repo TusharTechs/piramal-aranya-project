@@ -1,0 +1,92 @@
+.footer-wrapper {
+  background-color: #f3f4f9;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.footer-section {
+  margin-top: 100px;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+.footer-section p {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.call-us img {
+  background-color: #1a2541;
+  padding: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.call-number {
+  font-family: "Gabriela", serif;
+  font-size: 54px;
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+
+.social-media-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 100px;
+}
+
+.social-media-icons img {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.twitter-icon {
+  background-color: #00e5a1 !important;
+}
+
+.copyright {
+  margin-top: 150px;
+}
+
+.copyright p {
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.piramal-text {
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .footer-container {
+    padding: 20px;
+  }
+
+  .footer-section {
+    margin-top: 40px;
+  }
+
+  .call-us h2 {
+    font-size: 32px;
+    margin-bottom: 50px;
+  }
+
+  .social-media-icons {
+    padding-top: 0;
+  }
+
+  .copyright {
+    margin-top: 60px;
+  }
+
+  .copyright p {
+    font-size: 18px;
+  }
+}
