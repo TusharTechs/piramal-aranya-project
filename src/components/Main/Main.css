@@ -321,3 +321,27 @@
     display: none;
   }
 }
+
+@media (max-width: 480px) {
+  .select-property {
+    gap: 10px;
+  }
+
+  .select-property-item {
+    padding: 20px 35px 10px 35px;
+  }
+
+  .select-property-item img {
+    width: 20px;
+  }
+
+  .select-property-item h6 {
+    font-size: 8px;
+  }
+}
+
+@media (max-width: 400px) {
+  .main-wrapper {
+    height: 150vh;
+  }
+}

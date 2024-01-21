@@ -142,7 +142,7 @@ const Main = () => {
                 }`}
                 onClick={() => setActiveBedroom("4+BHK")}
               >
-                <p>4+BHK</p>
+                <p>4+ BHK</p>
               </div>
             </div>
           </div>

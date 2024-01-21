@@ -239,4 +239,20 @@
     width: 100%;
     text-align: center;
   }
+
+  .input-group input {
+    width: 100%;
+  }
+}
+
+@media (max-width: 400px) {
+  .spectacular-wrapper {
+    height: 180vh;
+  }
+}
+
+@media (max-width: 385px) {
+  .spectacular-wrapper {
+    height: 225vh;
+  }
 }
