@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+# Piramal Aranya
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Piramal Aranya is a real estate project website showcasing luxurious residences with modern amenities.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+  - [Piramal Aranya](#piramal-aranya)
+  - [Live Link](#live-link)
+  - [Project Screenshots](#project-screenshots)
+  - [Google Sheet for Contact Form Data](#google-sheet-for-contact-form-data)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
 
-### `npm start`
+##  Live Link
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[Live Demo](https://piramal-aranya-project.vercel.app/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Project Screenshots
 
-### `npm test`
+![Screenshot_20](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/686e823b-b768-4ce1-9642-2a67bd7c606b)
+![Screenshot_21](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/42e018de-34df-4ce5-9506-dae782af429e)
+![Screenshot_22](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/28ac5f65-b287-4a19-ab7d-eb9bddf04c64)
+![Screenshot_23](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/38254b51-5c82-4e84-be50-d81f2ba3a0fe)
+![Screenshot_24](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/4eaafef0-40dc-422f-bed4-a039ef26697d)
+![Screenshot_25](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/5f230a68-560d-4b32-9314-35805371f8ed)
+![Screenshot_26](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/86f510f4-e328-4fee-ac54-667c73ae24f3)
+![Screenshot_27](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/96f814f0-0e9c-43b2-afeb-11d89e56f6eb)
+![Screenshot_28](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/a6489323-37c7-4487-9e09-11283c51231e)
+![Screenshot_29](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/587361ed-c6bd-431e-bbb8-edac623885fe)
+![Screenshot_30](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/5f8066f3-9a66-486f-8c68-d5d12a3ea24f)
+![Screenshot_31](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/13f0dccd-1433-48f5-bc62-bb9029e5b067)
+![Screenshot_32](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/db8d3343-53e5-4b83-b8a9-320a3ecbf259)
+![Screenshot_33](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/40a00c10-5af5-4909-8ab6-17890ad35c50)
+![Screenshot_34](https://github.com/TusharTechs/piramal-aranya-project/assets/56952465/a24d266c-a3ad-4954-82e3-a858c3c381c0)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Google Sheet for Contact Form Data
 
-### `npm run build`
+[Google Sheet](https://docs.google.com/spreadsheets/d/1BdVuko10y5SoS9hn3DTP86tt14RHrBwnxsBswmZlE-Q/edit?usp=sharing)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## About
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Piramal Aranya is a high-rise gated sanctuary developed by Piramal Groups, offering 2, 3 & 4 BHK homes with advanced wellness technologies, dual-aspect blue and green views, and a world-class lifestyle.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Features
 
-### `npm run eject`
+- View Projects with customizable filters
+- Explore property types (Flat, Villa, Plot) and bedroom configurations
+- Discover project details, amenities, and exclusive offers
+- Interactive visualizations of apartment layouts and surrounding attractions
+- Spectacular Surroundings section with stunning images
+- Contact form for users to register interest
+- Success page to confirm successful form submission
+- Responsive design for various devices
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Getting Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerequisites
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- npm (version 9.6.7)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Installation
 
-## Learn More
+1. Clone the repository:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   `git clone https://github.com/your-username/your-repo.git`
+2. Navigate to the project directory:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+   `cd piramal-aranya-project`
 
-### Code Splitting
+3. Install dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+   `npm install`
+   
+4. To run the project locally:
 
-### Analyzing the Bundle Size
+   `npm start`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+5. Visit http://localhost:3000 in your browser.
 
-### Making a Progressive Web App
+### Contributing
+If you'd like to contribute, please fork the repository and create a new branch with your changes. Open a pull request, and we'll review your changes.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### License
+This project is licensed under the [MIT License](License).
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Contact
+Tushar Agarwal - tusharaggarwal274@gmail.com
+Project Link: https://github.com/TusharTechs/piramal-aranya-project
